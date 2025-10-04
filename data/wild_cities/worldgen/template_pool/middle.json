@@ -1,0 +1,60 @@
+{
+  "name": "wild_cities:middle",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 40,
+      "element": {
+        "location": "wild_cities:middle_1",
+        "processors": "minecraft:empty",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+	    {
+      "weight": 40,
+      "element": {
+        "location": "wild_cities:middle_2",
+        "processors": "minecraft:empty",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+		    {
+      "weight": 40,
+      "element": {
+        "location": "wild_cities:middle_3",
+        "processors": "minecraft:empty",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+			    {
+      "weight": 40,
+      "element": {
+        "location": "wild_cities:roof",
+        "processors": "minecraft:empty",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+				    {
+      "weight": 40,
+      "element": {
+        "location": "wild_cities:middle_4",
+        "processors": "minecraft:empty",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+				    {
+      "weight": 10,
+      "element": {
+        "location": "wild_cities:middle_5",
+        "processors": "minecraft:empty",
+	    	"projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

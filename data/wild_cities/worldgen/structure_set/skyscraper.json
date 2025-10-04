@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "wild_cities:skyscraper",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 4,
+    "separation": 1,
+    "salt": 150
+  }
+}
